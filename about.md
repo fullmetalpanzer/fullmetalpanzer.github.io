@@ -1,8 +1,12 @@
 ---
 layout: page
-title: About
+title: About & Contact us
 ---
 
-This is an example page!
+## Studio
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+We located in a city called Wuxi -- 100 miles away from Shanghai.
+
+## Contact
+
+## Comission & Order
