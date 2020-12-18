@@ -21,7 +21,7 @@ entries:
 
 
     -title: about & contact
-      url: about
+     url: about
     - title: Follow us
       entries:
         -title: Facebook
