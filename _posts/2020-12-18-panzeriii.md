@@ -1,6 +1,6 @@
 ---
 title: 1/6 scale Panzer III
-layout: post
+layout: page
 ---
 
 ## 1/6 scale Panzer III 

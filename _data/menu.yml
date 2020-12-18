@@ -11,16 +11,22 @@ entries:
       - title: 1/6 scale Luchs(Panzer II Ausf. L)
       - title: 1/6 scale King Tiger
       - title: 1/6 scale Leopard 2
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+  - title: 1/16 scale RC tanks & upgrading parts
+    entries:
+      - title: double differential gearbox(PDSGB)
+      - title: 1/16 scale M1 metal lower hull
+      - title: 1/16 scale Challenger 2 metal lower hull
+      - title: elevation and recoil unit
+#      - title: github repo
+#        url: https://github.com/riggraz/no-style-please
+#      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+#  - title: all posts
+#    post_list:
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive.html
 
   - title: about & contact
     url: about.html
