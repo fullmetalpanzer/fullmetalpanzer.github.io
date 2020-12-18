@@ -20,9 +20,8 @@ entries:
 
 
 
-    -title: about
+    -title: about & contact
       url: about
-    
     - title: Follow us
       entries:
         -title: Facebook
