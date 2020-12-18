@@ -2,7 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: "<h3>Make Panzer Great Again!</h3>"
+
+  - title: 1/6 scale RC full metal tanks
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: github repo
@@ -23,16 +25,27 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+#  - title: rss
+#    url: feed.xml
+
+    -title: about
+      url: about
+    
+    - title: Follow us
+      entries:
+        -title: Facebook
+        url: https://www.facebook.com/fmprctank/
+        -title: Instagram
+        url: https://www.instagram.com/fmprctank/
+#  - title: another list
+#    entries:
+#      - title: with subitems
+#        entries:
+#          - title: with subsubitems
+#          - title: example page
+#            url: about
+
+
+#  - title: PRO TIP
+#    entries:
+#      - title: to edit this menu, edit _data/menu.yml file
