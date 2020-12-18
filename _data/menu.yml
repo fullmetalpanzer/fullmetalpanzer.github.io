@@ -2,16 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: "<h3>Make Panzer Great Again!</h3><p><img src='assets/index.jpg'></p>"
-  - title: 1/6 scale RC full metal tanks
+  - title: "<h3>Make Panzer Great Again!</h3><p>We build large scale full metal RC tanks that could run off-road.</p><p><img src='assets/index.jpg'></p>"
+  - title: "<h3>1/6 scale RC full metal tanks</h3>"
     entries:
       - title: 1/6 scale Panzer III
         url: panzeriii.html
       - title: 1/6 scale Tiger I
+        url: tigeri.html
       - title: 1/6 scale Luchs(Panzer II Ausf. L)
+        url: luchs.html
       - title: 1/6 scale King Tiger
       - title: 1/6 scale Leopard 2
-  - title: 1/16 scale RC tanks & upgrading parts
+        url: leopard2.html
+  - title: "<h3>1/16 scale RC tanks & upgrading parts</h3>"
     entries:
       - title: double differential gearbox(PDSGB)
       - title: 1/16 scale M1 metal lower hull
