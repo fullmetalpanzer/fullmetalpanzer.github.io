@@ -21,9 +21,9 @@ entries:
     url: about.html
   - title: Follow us
     entries:
-      - title: Facebook
+     - title: Facebook
        url: https://www.facebook.com/fmprctank/
-      - title: Instagram
+     - title: Instagram
        url: https://www.instagram.com/fmprctank/
 #  - title: another list
 #    entries:
