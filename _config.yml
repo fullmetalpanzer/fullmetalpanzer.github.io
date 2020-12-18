@@ -4,7 +4,7 @@ email: powermetalpanic@icloud.com # email of site's author
 url: https://fullmetalpanzer.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  Full Metal Panzer RC tanks.
+  Full Metal Panzer RC tanks. We make 1/6 scale full metal RC tanks.
 
 permalink: /:slug.html
 
