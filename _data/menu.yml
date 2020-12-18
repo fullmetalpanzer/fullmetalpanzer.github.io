@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: "<h3>Make Panzer Great Again!</h3>"
+  - title: "<h3>Make Panzer Great Again!</h3><p><img src="{{site.url}}/assets/index.jpg"></p>"
   - title: 1/6 scale RC full metal tanks
     entries:
       - title: 1/6 scale Panzer III
