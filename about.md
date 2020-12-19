@@ -8,10 +8,11 @@ title: About & Contact us
 
 ![]({{ site.url }}assets/studio.jpg)
 
-We located in a city called Wuxi -- 100 miles away from Shanghai.
+We located in a city called Wuxi -- 100 miles away from Shanghai. If you live in China or just pass by, welcome to visit us and have a try.
 
 
 
 ## Contact
 
-## Comission & Order
+## Commission & Order
+

@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: "<h3>Make Panzer Great Again!</h3><p>We build world's best 1/6 scale full metal RC tanks</p><p><img src='assets/index.jpg'></p>"
+  - title: "<h3>Make Panzer Great Again!</h3><p>We build world's best 1/6 scale full metal RC tanks.</p><p><img src='assets/index.jpg'></p>"
   - title: "<h3>1/6 scale full metal RC tanks</h3>"
     entries:
       - title: 1/6 scale Panzer III
@@ -17,8 +17,11 @@ entries:
   - title: "<h3>1/16 scale RC tanks & upgrading parts</h3>"
     entries:
       - title: double differential gearbox(PDSGB)
+        url: ddg.html
       - title: 1/16 scale M1 metal lower hull
+        url: m1.html
       - title: 1/16 scale Challenger 2 metal lower hull
+        url: challenger2.html
       - title: elevation and recoil unit
 #      - title: github repo
 #        url: https://github.com/riggraz/no-style-please
