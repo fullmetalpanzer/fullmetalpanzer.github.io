@@ -1,4 +1,4 @@
-title: Full Metal Panzer    # name of the site
+title: Full Metal Panzer RC tank # name of the site
 author: Saer Yue # name of site's author
 email: powermetalpanic@icloud.com # email of site's author
 url: https://fullmetalpanzer.github.io/ # root address of the site
@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
+  back_home_text: "index" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
