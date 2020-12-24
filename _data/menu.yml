@@ -23,9 +23,14 @@ entries:
       - title: 1/16 scale Challenger 2 metal lower hull
         url: challenger2.html
       - title: elevation and recoil unit
-  - title: Miscellaneous
+  - title: "<h3>Miscellaneous</h3>"
     entries:
       - title: how the road wheels of Panzer III are made
+      - title: basic princples of making large scale RC tanks
+      - title: about track links
+      - title: lower hull of large scale tanks
+      - title: reference of the Bosch head light
+        url: bosch-headlight.html
 #      - title: how the track links are made
 #      - title: why is large scale RC tanks so hard to make
 #      - title: github repo
