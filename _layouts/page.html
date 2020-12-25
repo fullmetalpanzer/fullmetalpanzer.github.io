@@ -7,3 +7,14 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {{ content }}
+
+<script>
+  window.addEventListener('load', function () {
+    Lightense('img');
+  }, false);
+</script>
+<script>
+  window.addEventListener('load', function () {
+    Lightense('img:not(.no-lightense)');
+  }, false);
+</script>
