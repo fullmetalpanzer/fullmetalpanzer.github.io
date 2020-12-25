@@ -27,6 +27,12 @@ length, width, height:
 
 custom made gearbox
 
-torsion-bar suspension
+
 
 recoil, smoke, sound
+
+### road wheels
+
+### torsion-bar suspension
+
+## price
