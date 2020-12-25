@@ -17,4 +17,14 @@ layout: default
   window.addEventListener('load', function () {
     Lightense('img:not(.no-lightense)');
   }, false);
+  
+  Lightense(elements, {
+  time: 300,
+  padding: 40,
+  offset: 40,
+  keyboard: true,
+  cubicBezier: 'cubic-bezier(.2, 0, .1, 1)',
+  background: 'rgba(255, 255, 255, .98)',
+  zIndex: 2147483647
+});
 </script>
