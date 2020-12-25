@@ -9,16 +9,7 @@ layout: default
 {{ content }}
 
 <script>
-  window.addEventListener('load', function () {
-    Lightense('img');
-  }, false);
-</script>
-<script>
-  window.addEventListener('load', function () {
-    Lightense('img:not(.no-lightense)');
-  }, false);
-  
-  Lightense(img, {
+Lightense('img', {
   time: 300,
   padding: 40,
   offset: 40,
@@ -27,4 +18,13 @@ layout: default
   background: 'rgba(255, 255, 255, .98)',
   zIndex: 2147483647
 });
+ window.addEventListener('load', function () {
+    Lightense('img');
+  }, false);
+</script>
+
+<script>
+  window.addEventListener('load', function () {
+    Lightense('img:not(.no-lightense)');
+  }, false);
 </script>
