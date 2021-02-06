@@ -11,6 +11,9 @@ layout: page
 
 ### specs
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vb9X6WVh8I8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 stainless steel welded
 
 custom made tensioner
