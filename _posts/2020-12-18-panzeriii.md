@@ -50,6 +50,16 @@ recoil, smoke, sound
 
 ### road wheels
 
+Represent the original structure, and there is CONTINENTAL logo on the tire.
+
+![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel1.jpg)
+
+![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel2.jpg)
+
+![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel3.jpg)
+
 ### torsion-bar suspension
 
 ## price
+
+

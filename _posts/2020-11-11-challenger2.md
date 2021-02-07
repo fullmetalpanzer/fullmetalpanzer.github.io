@@ -18,6 +18,8 @@ stainless steel welded
 
 custom made tensioner
 
+![1/16 scale Challenger 2 main battle tank metal lower hull with double differential gearbox]({{ site.url }}assets/challenger2/1.jpg)
 
+![1/16 scale Challenger 2 main battle tank metal lower hull with double differential gearbox]({{ site.url }}assets/challenger2/2.jpg)
 
-
+![1/16 scale Challenger 2 main battle tank metal lower hull with double differential gearbox]({{ site.url }}assets/challenger2/3.jpg)
