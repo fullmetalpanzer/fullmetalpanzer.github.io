@@ -41,14 +41,14 @@ entries:
 #      show_more_text: See archive...
 #      show_more_url: archive.html
 
-  - title: about & contact
-    url: about.html
-  - title: Follow us
+  - title: "<h4>Follow & about us</h4>"
     entries:
-     - title: Facebook
-       url: https://www.facebook.com/fmprctank/
-     - title: Instagram
-       url: https://www.instagram.com/fmprctank/
+      - title: about & contact
+        url: about.html
+      - title: Facebook
+        url: https://www.facebook.com/fmprctank/
+      - title: Instagram
+        url: https://www.instagram.com/fmprctank/
 #  - title: another list
 #    entries:
 #      - title: with subitems
