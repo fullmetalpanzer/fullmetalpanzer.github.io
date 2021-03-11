@@ -9,10 +9,10 @@ entries:
         url: panzeriii.html
       - title: 1/6 scale Tiger I
         url: tigeri.html
-      - title: 1/6 scale King Tiger
-        url: tigerii.html
       - title: 1/6 scale Luchs(Panzer II Ausf. L)
-        url: luchs.html  
+        url: luchs.html
+      - title: 1/6 scale King Tiger
+        url: tigerii.html        
       - title: 1/6 scale Leopard 2
         url: leopard2.html
   - title: "<h3>1/16 scale RC tanks & upgrading parts</h3>"
