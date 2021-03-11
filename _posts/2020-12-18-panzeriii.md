@@ -31,7 +31,9 @@ length, width, height:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLnBw4uDELw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![1/6 scale lower hull of Panzer III]({{ site.url }}assets/pz3/a.jpg)
 
+![1/6 scale lower hull of Panzer III]({{ site.url }}assets/pz3/b.jpg)
 
 ### track links
 
@@ -56,7 +58,6 @@ Represent the original structure, and there is CONTINENTAL logo on the tire.
 ### torsion-bar suspension
 
 
-
 ## price
 
-
+45000 RMB / 6920 USD / 5800 EUR / 4970 GBP
