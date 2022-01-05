@@ -31,31 +31,35 @@ length, width, height:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLnBw4uDELw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![1/6 scale lower hull of Panzer III]({{ site.url }}assets/pz3/a.jpg)
+![1/6 scale lower hull of Panzer III]({{ site.url }}/assets/pz3/a.jpg)
 
-![1/6 scale lower hull of Panzer III]({{ site.url }}assets/pz3/b.jpg)
+![1/6 scale lower hull of Panzer III]({{ site.url }}/assets/pz3/b.jpg)
 
 ### track links
 
-![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}assets/pz3/track1.jpg)
+![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}/assets/pz3/track1.jpg)
 
-![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}assets/pz3/track2.jpg)
+![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}/assets/pz3/track2.jpg)
 
-![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}assets/pz3/track3.jpg)
+![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}/assets/pz3/track3.jpg)
 
-![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}assets/pz3/track4.jpg)
+![1/6 scale track links of Panzer III/Panzer VI.]({{ site.url }}/assets/pz3/track4.jpg)
 
 ### road wheels
 
 Represent the original structure, and there is CONTINENTAL logo on the tire.
 
-![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel1.jpg)
+![1/6 road wheel of Panzer III]({{ site.url }}/assets/pz3/roadwheel1.jpg)
 
-![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel2.jpg)
+![1/6 road wheel of Panzer III]({{ site.url }}/assets/pz3/roadwheel2.jpg)
 
-![1/6 road wheel of Panzer III]({{ site.url }}assets/pz3/roadwheel3.jpg)
+![1/6 road wheel of Panzer III]({{ site.url }}/assets/pz3/roadwheel3.jpg)
 
 ### torsion-bar suspension
+
+### details
+
+
 
 
 ## price
